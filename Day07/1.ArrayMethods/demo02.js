@@ -8,9 +8,8 @@ const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 //     }
 // }
 
-// display square of odd numbers
+// display square of odd numbers imp
 arr.filter(e => e % 2 != 0).map(e => e * e).forEach(e => console.log(e))
-
 
 // for (e of arr) { // Iteration -> forEach()
 //     if (e % 2 == 0) { // Condition -> filter()

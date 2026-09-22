@@ -19,3 +19,6 @@ console.log('Km to m - ' + kmTom(4))
 // const feetTocm = multiply(30)
 console.log('feet to cm - ' + multiply(30)(2))
 console.log('feet to cm - ' + multiply(30)(3))
+
+
+//imp

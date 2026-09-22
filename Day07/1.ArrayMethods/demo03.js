@@ -7,5 +7,5 @@ let words = []
 //     }
 // }
 
-words = arr.flatMap(e => e.split(' '))
+words = arr.flatMap(e => e.split(' ')) //imp
 console.log(words)// 1D Array words

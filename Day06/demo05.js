@@ -9,5 +9,5 @@ console.log(arr)
 // console.log(arr2)
 // arr2.forEach((e => console.log(e))
 
-// stream programming
+// stream programming imp
 arr.filter(e => e % 2 == 0).forEach(e => console.log(e));

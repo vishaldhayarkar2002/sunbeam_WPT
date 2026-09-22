@@ -1,4 +1,4 @@
-let p1 = new Object()
+let p1 = new Object() //imp
 p1.name = 'anil'
 p1.age = 30
 p1.mobile = '9876543210'
