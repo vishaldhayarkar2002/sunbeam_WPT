@@ -1,3 +1,5 @@
+const path = require("node:path")
+
 const users = [
     { uid: 1, name: 'anil', mobile: '9876543210', city: 'pune' },
     { uid: 2, name: 'mukesh', mobile: '9876543211', city: 'mumbai' },
